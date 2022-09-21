@@ -20,4 +20,7 @@ public class Flat {
     public void setBalcony(boolean balcony) {
         this.balcony = balcony;
     }
+    public void setCity(String city){
+        this.city = city;
+    }
 }
