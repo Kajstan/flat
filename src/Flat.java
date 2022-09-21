@@ -23,4 +23,8 @@ public class Flat {
     public void setCity(String city){
         this.city = city;
     }
+
+    public void setFloor(int floor) {
+        this.floor = floor;
+    }
 }

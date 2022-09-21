@@ -8,5 +8,7 @@ public class Main {
         System.out.println(mieszkanie1.getBalcony());
         mieszkanie1.setCity("Poznan");
         System.out.println(mieszkanie1.getCity());
+        mieszkanie1.setFloor(4);
+        System.out.println(mieszkanie1.getFloor());
     }
 }
