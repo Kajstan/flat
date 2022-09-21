@@ -27,4 +27,5 @@ public class Flat {
     public void setFloor(int floor) {
         this.floor = floor;
     }
+
 }
